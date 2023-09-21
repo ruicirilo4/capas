@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "description": "Seu projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
